@@ -9,3 +9,4 @@ print(math.sqrt(9))
 print("practcing merge cmd")
 
 print("this is added before anithas commit")
+print("hello merge ex")
