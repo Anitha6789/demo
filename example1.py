@@ -2,3 +2,7 @@ print("Welcome to Github")
 #########################
 print(f'this is training!')
 ########################
+
+import math
+
+print(math.sqrt(9))
